@@ -14,10 +14,10 @@ The Jupyter Notebook Predicting_house_price.ipynb provides detailed instructions
 
 Results : 
 The model's performance and predictions can be evaluated by examining the metrics and visualizations provided in the Jupyter Notebook. You will gain insights into how well the model performs in predicting house prices.
-
-
-
-
+.
+.
+.
+.
 TASK 2 :-  Wine Quality Prediction using Linear Regression
 
 Overview : 
